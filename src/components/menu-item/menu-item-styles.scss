@@ -25,6 +25,9 @@
 
   &.large {
     height: 380px;
+    .content {
+      margin-top: 3.3%;
+    }
   }
 
   &:first-child {
